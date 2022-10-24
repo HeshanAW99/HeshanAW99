@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Heshan Wijerathne</h1>
-<h3 align="left">I'm an Undergraduate Student at NIBM University.</h3>
+<h1 align="center">Hi 👋, I'm Heshan Wijerathne <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="left">I'm an Undergraduate Student at <a href="http://www.nibm.lk">NIBM University.</a></h3>
+<br>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeshanAW99&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
