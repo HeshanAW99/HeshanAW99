@@ -25,6 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HeshanAW99&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HeshanAW99&theme=vision-friendly-dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanAW99&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanAW99&theme=rose_pine&layout=compact&card_width=450)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
